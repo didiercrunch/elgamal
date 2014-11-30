@@ -28,3 +28,8 @@ As any cryptographic library, if you use it, you need to *trust* it.  Unfortunat
 this library as not been verified by a third party.  There might be some bugs and
 vulnerabilities.  If you find one, please fill a bug.
 
+
+#### documentation
+
+Thanks to godoc.org, the documentation is available at
+http://godoc.org/github.com/didiercrunch/elgamal
